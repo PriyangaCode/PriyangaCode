@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Priya 👋
+### Electrical & Electronics Engineering Student
 
-<!--
-**PriyangaCode/PriyangaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enthusiastic EEE student exploring programming, hardware concepts, and emerging technologies while building projects for continuous growth.  
 
-Here are some ideas to get you started:
+I enjoy learning new technologies, experimenting with ideas, and turning them into practical solutions. My focus is on developing skills that help me grow professionally and contribute to meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Embedded programming & microcontrollers  
+- Python & C/C++  
+- Data Structures & Algorithms (DSA)  
+- Simulation tools and software development  
+
+## 🚀 Projects & Work
+I am building and sharing projects that demonstrate practical applications and problem-solving in electrical and electronics domains.  
+
+Check my repositories below to explore my work 👇
+
+## 📬 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/priyanga-s-0b7a652a6 
+- GitHub Projects: Explore my repositories below 👇
+
